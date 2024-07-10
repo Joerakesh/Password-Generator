@@ -13,6 +13,10 @@ Welcome to the **Password Generator** repository! This project is a simple yet p
 - **CSS**: Adds styling and layout to make the interface user-friendly and visually appealing.
 - **JavaScript**: Implements the logic for password generation and handles user interactions.
 
+## Demo
+Check out the live demo of the Password Generator [here](https://joepasswordgenerator.netlify.app/).
+
+
 ## How to Use
 1. **Clone the Repository**:
     ```bash
