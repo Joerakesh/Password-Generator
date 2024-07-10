@@ -16,7 +16,7 @@ Welcome to the **Password Generator** repository! This project is a simple yet p
 ## How to Use
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/your-username/password-generator.git
+    git clone https://github.com/your-username/password-generator.git](https://github.com/Joerakesh/Password-Generator.git
     ```
 2. **Navigate to the Project Directory**:
     ```bash
